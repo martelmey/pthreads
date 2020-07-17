@@ -1,0 +1,20 @@
+apt
+    list : list pkgs based on pkg names
+    search : search in pkg descriptions
+    show : show pkg details
+    install
+    remove
+    autoremove : rm all unused pkgs
+    update : update list of available pkgs
+    upgrade 
+    full-upgrade : upgrade + remove pkgs too
+    edit-sources : edit sources.list
+
+git
+    remote add origin https://github.com/martelmey/pthreads.git
+    push -u origin master
+    commit -m "init"
+
+https://www.youtube.com/watch?v=ynCc-v0K-do
+
+https://code.visualstudio.com/docs/editor/debugging#_launch-configurations
